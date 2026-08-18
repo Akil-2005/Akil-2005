@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | CSE Undergraduate | Building things for the web</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=FullStack+Developer;React+%7C+Bootstrap+%7C+Nodejs+%7C+Mongodb;Learning+Java%26+Dsa+Python+%26+AI+everyday;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=FullStack+Developer;React+%7C+Bootstrap+%7C+Nodejs+%7C+Mongodb;Learning+Java%26+Dsa+Python+%26+AI+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,9 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. in **Computer Science Engineering**, Anna University Regional Campus, Madurai (2023 – 2027)
-- 📊 Current CGPA: **8.43**
 - 💻 Passionate about **Web Development**, **Software Development**, and **Artificial Intelligence**
 - 🎬 Also into **video editing** in my free time
-- 🌱 Currently sharpening my skills in **JavaScript, Python, and Data Science**
+- 🌱 Currently sharpening my skills in **Java, Python, and Data Structure and algorithm**
 - 📫 Reach me at **akil8x2005@gmail.com**
 
 ---
