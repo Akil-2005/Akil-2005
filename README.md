@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Akil S I 👋</h1>
-<h3 align="center">Frontend Developer | CSE Undergrad | Building things for the web</h3>
+<h3 align="center">Fullstack Developer | CSE Undergraduate | Building things for the web</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS+%7C+Bootstrap;Learning+Python+%26+AI+everyday;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=FullStack+Developer;React+%7C+Bootstrap+%7C+Nodejs+%7C+Mongodb;Learning+Java%26+Dsa+Python+%26+AI+everyday;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akil8x2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https:[//leetcode.com/](https://leetcode.com/u/Xe8AvVMnyf/)" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https:[//www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/akil8xinit)" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
